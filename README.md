@@ -1,0 +1,2 @@
+# MujirushiWiki
+Wiki用リポジトリー
