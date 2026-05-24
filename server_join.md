@@ -8,3 +8,7 @@
 ## IP
 - Java: `chinpo.hanyuu.lol`
 - Bedrock Edition (統合版): `be.hanyuu.lol` (Port: 19132)
+
+## 前提MOD
+Simple Voice Chatが必要です。
+[こちら](vc_mod.md)からご確認ください。
