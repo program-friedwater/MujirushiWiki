@@ -1,13 +1,13 @@
 # サーバーに参加する方法
-現在無印SMPはテスト段階であるため、ホワイトリスト制となっています。
-そのため、参加するためにはDiscordサーバーに参加し、
-あなたのMCIDを添え、参加したい旨を伝えてください。
+最初に公式Discordサーバーに参加することをすすめます
+下のIPから参加できます
+サーバーバージョンは1.21.4ですがプラグインのおかげで最新版でもサーバーは入れます
 
-[Discordサーバーのリンク](https://discord.gg/kudjBzNfKb)
+- [公式Discordサーバーのリンク](https://discord.gg/kudjBzNfKb)
 
 ## IP
-- Java: `chinpo.hanyuu.lol`
-- Bedrock Edition (統合版): `be.hanyuu.lol` (Port: 19132)
+- Java: `mc.yuri.red`
+- Bedrock Edition (統合版): `be.yuri.red` (Port: 19132)
 
 ## 前提MOD
 Simple Voice Chatが必要です。
